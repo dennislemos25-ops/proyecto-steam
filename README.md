@@ -3,7 +3,7 @@
 # SmartParking
 
 ## Descripción
-- Se trata de un parking tecnológico, equipado con un sistema automatizado de apertura y cierre de barreras. La barrera se elevará automáticamente al detectar la presencia de un vehículo, permitiendo su ingreso o salida. Una vez que el vehículo haya pasado, se esperarán aproximadamente 3 segundos antes de cerrar nuevamente la barrera.
+Se trata de un parking tecnológico, equipado con un sistema automatizado de apertura y cierre de barreras. La barrera se elevará automáticamente al detectar la presencia de un vehículo, permitiendo su ingreso o salida. Una vez que el vehículo haya pasado, se esperarán aproximadamente 3 segundos antes de cerrar nuevamente la barrera.
 
 Adicionalmente, el sistema contará con un sensor de propano, cuya función será detectar concentraciones elevadas de este gas. De esta manera, se podrá identificar una posible situación de riesgo, como un vehículo que haya quedado encendido por error u olvido, y emitir un aviso para alertar a los responsables del parking.
 
