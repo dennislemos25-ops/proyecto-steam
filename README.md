@@ -1,6 +1,6 @@
 *Este repositorio es una plantilla para ser usada para documentar proyectos STEAM.*
 
-# [Nombre Proyecto STEAM]
+# [SmartParking]
 
 ## Descripción
 - [Agregar un párrafo con descripción del proyecto STEAM]
