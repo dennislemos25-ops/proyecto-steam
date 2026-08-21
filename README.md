@@ -1,22 +1,23 @@
 *Este repositorio es una plantilla para ser usada para documentar proyectos STEAM.*
 
-# [SmartParking]
+# SmartParking
 
 ## Descripción
-- [Agregar un párrafo con descripción del proyecto STEAM]
-- [Agregar una imagen o fotografía relevante al proyecto]
-- [Opcional: agregar el nombre del equipo]
+- Se trata de un parking tecnológico, equipado con un sistema automatizado de apertura y cierre de barreras. La barrera se elevará automáticamente al detectar la presencia de un vehículo, permitiendo su ingreso o salida. Una vez que el vehículo haya pasado, se esperarán aproximadamente 3 segundos antes de cerrar nuevamente la barrera.
+
+Adicionalmente, el sistema contará con un sensor de propano, cuya función será detectar concentraciones elevadas de este gas. De esta manera, se podrá identificar una posible situación de riesgo, como un vehículo que haya quedado encendido por error u olvido, y emitir un aviso para alertar a los responsables del parking.
+
+<img width="1600" height="877" alt="logo" src="https://github.com/user-attachments/assets/a6678133-be8f-45b9-bc34-dcc5880680d4" />
+
 
 *Nota:* Este proyecto se realiza durante el curso **Laboratorio STEAM+** de la
-tecnicatura **Redes y Software** del [**nombre del instituto**] de **UTU**.
+tecnicatura **Redes y Software** del **ITI** de **UTU**.
 
 ## Integrantes
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
-- [Nombre integrante 4]
-- [Nombre integrante 5]
-- [Opcional: agregar fotos o avatar para cada integrante]
+- Noemí Dupasus
+- Jim Birriel
+- Dennis Lemos
+- Daniela Rial
 
 ## Documentación
 - [Informe de Avance - Agosto 202x](documentacion/avance1.md)
