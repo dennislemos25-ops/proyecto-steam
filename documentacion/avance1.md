@@ -1,6 +1,6 @@
 # Informe de Avance 1: Agosto 2026
 
-## [18/8/2026
+## [18/8/2026]
 - Se crea un logo para el proyecto.
   <img width="800" height="438" alt="logo" src="https://github.com/user-attachments/assets/c2c77075-c791-4628-8fe8-307e1c5d2aef" />
 - Se comparte el acceso al github del proyecto.
