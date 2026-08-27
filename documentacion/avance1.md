@@ -22,10 +22,6 @@ Tareas completada:
   - Ensamblaje del sensor de butano.
   - Ensamblaje del buzzer.
 
-Problemas encontrados y soluciones/alternativas propuestas:
-  - El código no permitía el transito del vehículo sin que se bajara el Servo, se replantea el código para que  siempre que haya un vehículo al alcance del sensor el Servo este arriba, mientras que si ya no esta al alcance, debe esperar 3 segundos y luego bajar.
-  - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
-
 Próximos pasos:
   - Armado y preparación de la maqueta, para colocar el Arduino y la protoboard donde corresponde.
   - Imágenes y video ilustrativos del avance:
@@ -38,10 +34,13 @@ Próximos pasos:
 
 <video src="imagenes/funcionamiento_barerra.mp4" controls width="100%">videohtml</video>
 
-## [x]/8/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
+## 27/8/2026
+- Se hicieron correcciones en la documentación, se modificaron los tamaños de las imágenes y se agregó link para ver el proceso del funcionamiento de la barrera.
+- Tareas completadas:
+  - Código completo y funcionando.
+  - Problemas encontrados y soluciones/alternativas propuestas:
+  - El código no permitía el transito del vehículo sin que se bajara el Servo, se replantea el código para que  siempre que haya un vehículo al alcance del sensor el Servo este arriba, mientras que si ya no esta al alcance, debe esperar 3 segundos y luego bajar.
+  - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
+- Próximos pasos:
+  - Culminando la maqueta y colocación de los componentes en su lugar, pegado de componentes, armado total y verificación los mismos que funcionen correctamente.
   - [Imágenes o videos ilustrativos del avance]
