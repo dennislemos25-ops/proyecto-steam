@@ -7,27 +7,27 @@
 
 ## 19/8/2026
 - Se realiza la compra de los sensores, cables y otros objetos necesarios para el proyecto.
-- Se prepara una base de madera para la maqueta, tambien se preparan calcomanias de la calle por donde transitaran los vehiculos.
+- Se prepara una base de madera para la maqueta, tambien se preparan calcomanías de la calle por donde transitaran los vehiculos.
 
 ## 20/8/2026
-Se comienza con el ensamblaje de los sensores, cables y objetos para que puedan funcionar en un Arduino, esto a traves de una protoboard.
+Se comienza con el ensamblaje de los sensores, cables y objetos para que puedan funcionar en un Arduino, esto a través de una protoboard.
   
 Tareas completada:
-  - Se crea un codigo para poder testear el Servo.
+  - Se crea un código para poder testear el Servo.
   - Ensamblaje del Servo.
   - Se testea el Servo para verificar el funcionamiento, logrando comprobar el correcto funcionamiento.
   - Se crea un esquema del circuito del Arduino + Protoboar en tinkercad.
-  - Ensamblaje del primer sensor ultrasonico.
-  - Ensamblaje del segundo sensor ultrasonico.
+  - Ensamblaje del primer sensor ultrasónico.
+  - Ensamblaje del segundo sensor ultrasónico.
   - Ensamblaje del sensor de butano.
   - Ensamblaje del buzzer.
 
 Problemas encontrados y soluciones/alternativas propuestas:
-  - El codigo no permitia el transito del vehiculo sin que se bajara el Servo, se replantea el codigo para que  siempre que haya un vehiculo al alcance del sensor el Servo este arriba, mientras que si ya no esta al alcance, debe esperar 3 segundos y luego bajar.
-  - El sensor de butano estaba configurado en un valor bajo a nivel de codigo, se corrige para un optimo funcionamiento.
+  - El código no permitía el transito del vehículo sin que se bajara el Servo, se replantea el código para que  siempre que haya un vehículo al alcance del sensor el Servo este arriba, mientras que si ya no esta al alcance, debe esperar 3 segundos y luego bajar.
+  - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
 
 Próximos pasos:
-  - Armado y preparacion de la maqueta, para colocar el Arduino y la protoboard donde corresponde.
+  - Armado y preparación de la maqueta, para colocar el Arduino y la protoboard donde corresponde.
   - Imágenes y video ilustrativos del avance:
 <img width="562" height="1000" alt="maqueta1" src="https://github.com/user-attachments/assets/1216524e-60ff-4ff2-8364-32ee963eddaa" />
 <img width="562" height="1000" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" />
