@@ -31,8 +31,8 @@ Próximos pasos:
   - Imágenes y video ilustrativos del avance:
 <img width="562" height="1000" alt="maqueta1" src="https://github.com/user-attachments/assets/1216524e-60ff-4ff2-8364-32ee963eddaa" />
 <img width="562" height="1000" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" />
-<img width="562" height="1000" alt="arduinoproceso" src="https://github.com/user-attachments/assets/3def286b-f057-4989-b7e7-781e8279155c" />
-<img width="562" height="1000" alt="arduinofin" src="https://github.com/user-attachments/assets/fa05f353-b640-4653-bdce-c032988e733d" />
+<img width="752" height="1020" alt="arduinoproceso" src="https://github.com/user-attachments/assets/3def286b-f057-4989-b7e7-781e8279155c" />
+<img width="752" height="1020" alt="arduinofin" src="https://github.com/user-attachments/assets/fa05f353-b640-4653-bdce-c032988e733d" />
 
 [Ver video](https://github.com/dennislemos25-ops/proyecto-steam/raw/refs/heads/main/documentacion/imagenes/funcionamiento_barerra.mp4)
 
