@@ -1,6 +1,6 @@
 # Informe de Avance 1: Agosto 2026
 
-## [18/8/2026]
+## 18/8/2026
 - Se crea un logo para el proyecto.
   <img width="800" height="438" alt="logo" src="https://github.com/user-attachments/assets/c2c77075-c791-4628-8fe8-307e1c5d2aef" />
 - Se comparte el acceso al github del proyecto.
@@ -33,7 +33,10 @@ Próximos pasos:
 <img width="562" height="1000" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" />
 <img width="765" height="1020" alt="arduinoproceso" src="https://github.com/user-attachments/assets/3def286b-f057-4989-b7e7-781e8279155c" />
 <img width="764" height="1020" alt="arduinofin" src="https://github.com/user-attachments/assets/fa05f353-b640-4653-bdce-c032988e733d" />
-https://github.com/user-attachments/assets/90e5f14e-6af7-4596-8185-a67bd1703e7e
+
+[Ver video](https://github.com/dennislemos25-ops/proyecto-steam/raw/refs/heads/main/documentacion/imagenes/funcionamiento_barerra.mp4)
+
+<video src="imagenes/funcionamiento_barerra.mp4" controls width="100%">videohtml</video>
 
 ## [x]/8/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
