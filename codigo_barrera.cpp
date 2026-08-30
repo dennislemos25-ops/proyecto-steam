@@ -14,11 +14,11 @@ const int PIN_BUZZER = 8;
 const int PIN_SERVO = 9;
 
 // Umbrales de configuración
-const int DISTANCIA_DETECCION = 10; // Distancia en cm para detectar vehículo
+const int DISTANCIA_DETECCION = 5; // Distancia en cm para detectar vehículo
 const int UMBRAL_GAS          = 300; // Nivel de gas para activar la alarma (0 a 1023)
 
 // Ángulos del servomotor
-const int ANGULO_CERRADO = 0;
+const int ANGULO_CERRADO = 180;
 const int ANGULO_ABIERTO = 90;
 
 Servo barrera;
