@@ -1,18 +1,32 @@
 # Informe de Avance 1: Agosto 2026
 
 ## 18/8/2026
+### Tareas completadas:
 - Se crea un logo para el proyecto.
   <img width="800" height="438" alt="logo" src="https://github.com/user-attachments/assets/c2c77075-c791-4628-8fe8-307e1c5d2aef" />
 - Se comparte el acceso al github del proyecto.
 
+### Problemas encontrados y soluciones/alternativas propuestas
+Ninguno
+
+### Próximos pasos
+Completar...
+
 ## 19/8/2026
+### Tareas completadas:
 - Se realiza la compra de los sensores, cables y otros objetos necesarios para el proyecto.
 - Se prepara una base de madera para la maqueta, tambien se preparan calcomanías de la calle por donde transitaran los vehiculos.
+
+### Problemas encontrados y soluciones/alternativas propuestas
+Ninguno
+
+### Próximos pasos
+Completar...
 
 ## 20/8/2026
 Se comienza con el ensamblaje de los sensores, cables y objetos para que puedan funcionar en un Arduino, esto a través de una protoboard.
   
-Tareas completada:
+### Tareas completadas:
   - Se crea un código para poder testear el Servo.
   - Ensamblaje del Servo.
   - Se testea el Servo para verificar el funcionamiento, logrando comprobar el correcto funcionamiento.
@@ -22,9 +36,13 @@ Tareas completada:
   - Ensamblaje del sensor de butano.
   - Ensamblaje del buzzer.
 
-Próximos pasos:
+### Problemas encontrados y soluciones/alternativas propuestas
+Ninguno
+
+### Próximos pasos:
   - Armado y preparación de la maqueta, para colocar el Arduino y la protoboard donde corresponde.
-  - Imágenes y video ilustrativos del avance:
+
+### Imágenes y video ilustrativos del avance:
 <img width="281" height="400" alt="maqueta1" src="https://github.com/user-attachments/assets/1216524e-60ff-4ff2-8364-32ee963eddaa" />
 <img width="281" height="400" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" />
 <img width="281" height="400" alt="arduinoproceso" src="https://github.com/user-attachments/assets/3def286b-f057-4989-b7e7-781e8279155c" />
@@ -38,11 +56,16 @@ Próximos pasos:
 <video src="imagenes/funcionamiento_barerra.mp4" controls width="100%">videohtml</video>
 
 ## 27/8/2026
-- Se hicieron correcciones en la documentación, se modificaron los tamaños de las imágenes y se agregó link para ver el proceso del funcionamiento de la barrera.
-- Tareas completadas:
-  - Código completo y funcionando.
+Se hicieron correcciones en la documentación, se modificaron los tamaños de las imágenes y se agregó link para ver el proceso del funcionamiento de la barrera.
+
+### Tareas completadas:
+  - [Código completo y funcionando](../codigo_barrera.cpp)
   - Problemas encontrados y soluciones/alternativas propuestas:
   - El código no permitía el transito del vehículo sin que se bajara el Servo, se replantea el código para que  siempre que haya un vehículo al alcance del sensor el Servo este arriba, mientras que si ya no esta al alcance, debe esperar 3 segundos y luego bajar.
   - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
-- Próximos pasos:
+
+### Problemas encontrados y soluciones/alternativas propuestas
+Ninguno
+
+### Próximos pasos:
   - Culminando la maqueta y colocación de los componentes en su lugar, pegado de componentes, armado total y verificación los mismos que funcionen correctamente.
