@@ -17,7 +17,6 @@ tecnicatura **Redes y Software** del **ITI** de **UTU**.
 - Noemí Dupasus
 - Jim Birriel
 - Dennis Lemos
-- Daniela Rial
 
 ## Documentación
 - [Informe de Avance - Agosto 202x](documentacion/avance1.md)
