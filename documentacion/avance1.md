@@ -46,4 +46,3 @@ Próximos pasos:
   - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
 - Próximos pasos:
   - Culminando la maqueta y colocación de los componentes en su lugar, pegado de componentes, armado total y verificación los mismos que funcionen correctamente.
-  - [Imágenes o videos ilustrativos del avance]
