@@ -26,9 +26,12 @@ Próximos pasos:
   - Armado y preparación de la maqueta, para colocar el Arduino y la protoboard donde corresponde.
   - Imágenes y video ilustrativos del avance:
 <img width="281" height="400" alt="maqueta1" src="https://github.com/user-attachments/assets/1216524e-60ff-4ff2-8364-32ee963eddaa" />
-<img width="281" height="400" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" /><br>
+<img width="281" height="400" alt="maqueta" src="https://github.com/user-attachments/assets/b8c848dd-c31c-479a-a95b-633a73b89bea" />
 <img width="281" height="400" alt="arduinoproceso" src="https://github.com/user-attachments/assets/3def286b-f057-4989-b7e7-781e8279155c" />
 <img width="281" height="400" alt="arduinofin" src="https://github.com/user-attachments/assets/fa05f353-b640-4653-bdce-c032988e733d" />
+<img width="281" height="400" alt="7846cfb5-5ca3-4686-9812-8f56a3bc2ab5" src="https://github.com/user-attachments/assets/8813c68f-bde7-4d46-bc48-abc1ce2b8085" />
+<img width="281" height="400" alt="ced5ecda-e851-4853-bf3f-2d4c4a5f0f06" src="https://github.com/user-attachments/assets/d3e46b93-f5bf-4f36-a880-20744973d98f" />
+
 
 [Ver video](https://github.com/dennislemos25-ops/proyecto-steam/raw/refs/heads/main/documentacion/imagenes/funcionamiento_barerra.mp4)
 
