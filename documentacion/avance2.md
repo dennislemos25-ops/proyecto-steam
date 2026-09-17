@@ -12,8 +12,8 @@ Se avanza con con la maquetación del proyecto.
   Problemas encontrados y soluciones/alternativas propuestas:
     - En primera instancia teníamos dudas de como colocar los sensores para un correcto funcionamiento, se probaron algunas alternativas que terminaron afectando algunas calcomanías. Esto fue rápidamente solucionado.
 
-Próximos pasos:
-  -
+Próximos pasos: <br>
+N/A
   
 Imágenes o videos ilustrativos del avance:
   
