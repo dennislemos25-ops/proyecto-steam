@@ -1,7 +1,8 @@
 # Informe de Avance 2: Septiembre 2026
 
 ## 17/9/2026
-- Se avanza con con la maquetación del proyecto.
+
+Se avanza con con la maquetación del proyecto.
 
 - Esto incluye:
   - Armado de la maqueta con los componentes previamente descritos en el avance anterior.
@@ -11,10 +12,10 @@
   Problemas encontrados y soluciones/alternativas propuestas:
     - En primera instancia teníamos dudas de como colocar los sensores para un correcto funcionamiento, se probaron algunas alternativas que terminaron afectando algunas calcomanías. Esto fue rápidamente solucionado.
 
-  Próximos pasos:
+Próximos pasos:
   -
   
-  Imágenes o videos ilustrativos del avance:
+Imágenes o videos ilustrativos del avance:
   
   <img width="281" height="400" alt="sticker" src="https://github.com/user-attachments/assets/f8505e6b-98ef-46cc-abb4-c94eab7079c0" />
   <img width="281" height="400" alt="cortes" src="https://github.com/user-attachments/assets/32bed12a-67c5-4d52-8a70-ff153ce63d43" />
