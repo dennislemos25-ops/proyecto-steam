@@ -1,4 +1,4 @@
-<img width="1530" height="2040" alt="parkingdetras" src="https://github.com/user-attachments/assets/39b13b80-f099-42f1-aaf5-a85eeccf64c3" /># Informe de Avance 2: Septiembre 2026
+# Informe de Avance 2: Septiembre 2026
 
 ## 17/9/2026
 - Se avanza con con la maquetación del proyecto.
@@ -15,6 +15,7 @@
   -
   
   Imágenes o videos ilustrativos del avance:
+  
   <img width="281" height="400" alt="sticker" src="https://github.com/user-attachments/assets/f8505e6b-98ef-46cc-abb4-c94eab7079c0" />
   <img width="281" height="400" alt="cortes" src="https://github.com/user-attachments/assets/32bed12a-67c5-4d52-8a70-ff153ce63d43" />
   <img width="281" height="400" alt="PresentacionSensores" src="https://github.com/user-attachments/assets/e8c4ac42-cff6-4284-b0eb-4d0bf0ee63d1" />
