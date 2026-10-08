@@ -2,6 +2,7 @@ import threading
 import time
 from flask import Flask, jsonify, render_template_string
 import serial
+import codigo_html
 
 PUERTO_COM = 'COM10'  # Ajustá según tu puerto COM
 BAUDIOS = 9600
@@ -70,7 +71,7 @@ def escuchar_arduino():
 
 @app.route("/")
 def index():
-    return render_template_string(HTML_TEMPLATE)
+    return render_template_string(codigo_html.HTML_TEMPLATE)
 
 
 @app.route("/datos")
