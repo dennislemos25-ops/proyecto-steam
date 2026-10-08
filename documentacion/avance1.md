@@ -31,11 +31,15 @@ Próximos pasos:
 <img width="281" height="400" alt="arduinofin" src="https://github.com/user-attachments/assets/fa05f353-b640-4653-bdce-c032988e733d" />
 <img width="281" height="400" alt="7846cfb5-5ca3-4686-9812-8f56a3bc2ab5" src="https://github.com/user-attachments/assets/8813c68f-bde7-4d46-bc48-abc1ce2b8085" />
 <img width="281" height="400" alt="36073e70-ae68-43c6-b964-633e7d684ad5 (1)" src="https://github.com/user-attachments/assets/8daf576c-37a4-4ff8-b035-267b35e71fc3" />
-
+<details>
+  <summary>Click para ver el video</summary>
+  <br>
+  <video width="100%" src="https://github.com/user-attachments/assets/590a10d5-74ee-471c-8918-d533c5825854" controls preload="metadata">
+    Tu navegador no soporta el tag de video.
+  </video>
+</details>
 
 [Ver video](https://github.com/dennislemos25-ops/proyecto-steam/raw/refs/heads/main/documentacion/imagenes/funcionamiento_barerra.mp4)
-
-<video src="imagenes/funcionamiento_barerra.mp4" controls width="100%">videohtml</video>
 
 ## 27/8/2026
 - Se hicieron correcciones en la documentación, se modificaron los tamaños de las imágenes y se agregó link para ver el proceso del funcionamiento de la barrera.
