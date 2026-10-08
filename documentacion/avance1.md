@@ -39,8 +39,6 @@ Próximos pasos:
   </video>
 </details>
 
-[Ver video](https://github.com/dennislemos25-ops/proyecto-steam/raw/refs/heads/main/documentacion/imagenes/funcionamiento_barerra.mp4)
-
 ## 27/8/2026
 - Se hicieron correcciones en la documentación, se modificaron los tamaños de las imágenes y se agregó link para ver el proceso del funcionamiento de la barrera.
 - Tareas completadas:
