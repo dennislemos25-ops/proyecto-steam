@@ -5,10 +5,8 @@ import serial
 import serial.tools.list_ports as list_ports
 import codigo_html
 
-#PUERTO_COM = 'COM10'  # Ajustá según tu puerto COM
-#Nuevo fragmento - Puerto Automatico
-PID_MICROBIT = 0043
-VID_MICROBIT = 2341
+PID_ARDUINO = 0x0043
+VID_ARDUINO = 0x2341
 TIMEOUT = 0.1
 
 def find_comport(pid, vid, baud):
@@ -24,14 +22,13 @@ def find_comport(pid, vid, baud):
         except AttributeError:
             continue
         if (p.pid == pid) and (p.vid == vid):
-            print('found target device pid: {} vid: {} port: {}'.format(
+            print('Dispositivo encontrado pid: {} vid: {} port: {}'.format(
                 p.pid, p.vid, p.device))
             ser_port.port = str(p.device)
             return ser_port
     return None
 
 BAUDIOS = 9600
-
 UMBRAL_MODERADO = 200
 UMBRAL_PELIGROSO = 350
 
@@ -60,9 +57,10 @@ def escuchar_arduino():
     global entradas, salidas, adentro, nivel_gas, estado_aire, color_estado, alerta_gas
 
     try:
-        arduino = serial.Serial(PUERTO_COM, BAUDIOS, timeout=1)
+     
+        arduino = find_comport(PID_ARDUINO, VID_ARDUINO, BAUDIOS)
         time.sleep(2)
-        print(f"--> CONECTADO EN {PUERTO_COM} <--")
+       
 
         while True:
             if arduino.in_waiting > 0:
