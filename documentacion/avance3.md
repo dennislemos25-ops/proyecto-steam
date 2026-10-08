@@ -14,7 +14,9 @@ Se avanza con la implementación del sitio web local de la empresa.
   - El sensor de gas fue ajustado con un delay de 10s, se bajó a 5s para medir mejor el funcionamiento.
     
 - Imágenes o videos ilustrativos del avance:
-  
+  <video width="100%" src="https://raw.githubusercontent.com/dennislemos25-ops/proyecto-steam/27b042d41383ce6f0d7b24f8649fc462701b1bc3/documentacion/imagenes/video1.mp4" controls>
+  Tu navegador no soporta el tag de video.
+</video>
 
 ## 08/10/202x
 
