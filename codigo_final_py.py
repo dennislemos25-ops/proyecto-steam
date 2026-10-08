@@ -4,7 +4,31 @@ from flask import Flask, jsonify, render_template_string
 import serial
 import codigo_html
 
-PUERTO_COM = 'COM10'  # Ajustá según tu puerto COM
+#PUERTO_COM = 'COM10'  # Ajustá según tu puerto COM
+#Nuevo fragmento - Puerto Automatico
+PID_MICROBIT = 0043
+VID_MICROBIT = 2341
+TIMEOUT = 0.1
+
+def find_comport(pid, vid, baud):
+    ''' return a serial port '''
+    ser_port = serial.Serial(timeout=TIMEOUT)
+    ser_port.baudrate = baud
+    ports = list(list_ports.comports())
+    print('scanning ports')
+    for p in ports:
+        print('port: {}'.format(p))
+        try:
+            print('pid: {} vid: {}'.format(p.pid, p.vid))
+        except AttributeError:
+            continue
+        if (p.pid == pid) and (p.vid == vid):
+            print('found target device pid: {} vid: {} port: {}'.format(
+                p.pid, p.vid, p.device))
+            ser_port.port = str(p.device)
+            return ser_port
+    return None
+
 BAUDIOS = 9600
 
 UMBRAL_MODERADO = 200
