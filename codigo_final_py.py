@@ -2,6 +2,7 @@ import threading
 import time
 from flask import Flask, jsonify, render_template_string
 import serial
+import serial.tools.list_ports as list_ports
 import codigo_html
 
 #PUERTO_COM = 'COM10'  # Ajustá según tu puerto COM
