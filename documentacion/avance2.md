@@ -13,7 +13,8 @@ Se avanza con con la maquetación del proyecto.
     - En primera instancia teníamos dudas de como colocar los sensores para un correcto funcionamiento, se probaron algunas alternativas que terminaron afectando algunas calcomanías. Esto fue rápidamente solucionado.
 
 Próximos pasos: <br>
-N/A
+  - Realizar un script con Python que permita mantener un monitoreo de entradas y salidas dentro del estacionamiento.
+  - Agregar la funcionalidad de enviar una alerta a la web local cuando haya exceso de gas.
   
 Imágenes o videos ilustrativos del avance:
   
@@ -23,14 +24,6 @@ Imágenes o videos ilustrativos del avance:
   <img width="281" height="400" alt="colocacionDeTechado" src="https://github.com/user-attachments/assets/f0f8c2fb-5b79-4c43-93f7-a703081056bb" />
   <img width="281" height="400" alt="parkingfrente" src="https://github.com/user-attachments/assets/c9e0c40d-1ad8-4b13-9312-ba984cc18277" />
   <img width="281" height="400" alt="parkingdetras" src="https://github.com/user-attachments/assets/b5d5e60b-008a-4983-9d27-aef1462cb86d" />
-
-## [x]/9/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
 
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
