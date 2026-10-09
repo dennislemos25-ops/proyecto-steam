@@ -48,3 +48,6 @@ Próximos pasos:
   - El sensor de butano estaba configurado en un valor bajo a nivel de código, se corrige para un optimo funcionamiento.
 - Próximos pasos:
   - Culminando la maqueta y colocación de los componentes en su lugar, pegado de componentes, armado total y verificación los mismos que funcionen correctamente.
+
+##Código fuente
+https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp
