@@ -33,7 +33,10 @@ Se avanza con la implementación del sitio web local de la empresa.
       </video>
   </details>
 
-## 08/10/202x
+  - Próximos pasos:
+    - Se trabajará en en una actualización de código para automatizar la búsqueda del puerto COM. 
+
+## 08/10/2026
 
 Se realiza una actualización en el código de Python, ahora se detecta automaticamente, facilitando la implementación.
 
@@ -43,13 +46,8 @@ Se realiza una actualización en el código de Python, ahora se detecta automati
 - Problemas encontrados y soluciones/alternativas propuestas:
   - El PID y VID de Arduino estaba en hexadecimal, se tuvo que adaptar las variables con 0x.
 
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+- Próximos pasos:
+  - Comenzar con la documentación técnica. 
 
 ## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
@@ -59,5 +57,14 @@ Se realiza una actualización en el código de Python, ahora se detecta automati
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## Nota
-En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
+## [x]/10/202x
+- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
+- [Incluir:]
+  - [Tareas completadas]
+  - [Problemas encontrados y soluciones/alternativas propuestas]
+  - [Próximos pasos]
+  - [Imágenes o videos ilustrativos del avance]
+ 
+[Código Arduino](https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp)<br>
+[Código Python](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_final_py.py)<br>
+[Código HTML](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_html.py)<br>
