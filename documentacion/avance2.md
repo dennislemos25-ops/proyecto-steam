@@ -25,5 +25,8 @@ Imágenes o videos ilustrativos del avance:
   <img width="281" height="400" alt="parkingfrente" src="https://github.com/user-attachments/assets/c9e0c40d-1ad8-4b13-9312-ba984cc18277" />
   <img width="281" height="400" alt="parkingdetras" src="https://github.com/user-attachments/assets/b5d5e60b-008a-4983-9d27-aef1462cb86d" />
 
+[Código Arduino](https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp)<br>
+[Código Python](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_final_py.py)<br>
+[Código HTML](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_html.py)<br>
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
