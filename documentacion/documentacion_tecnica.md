@@ -19,16 +19,14 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![arduino_uno](imagenes/arduino_uno.jpg) | arduino uno|
-| ![protoboard](imagenes/) |  |
-| ![motor vibracion](imagenes/03motor_vibracion.jpg) | Motor vibración |
-| ![speaker](imagenes/04speaker.jpg) | Speaker |
-| ![sensor proximidad](imagenes/05sensor_proximidad.jpg) | Sensor de proximidad |
-| ![cables](imagenes/06cables.jpg) | Cables |
-| ![tarjeta expansora](imagenes/07tarjeta_expansora.jpg) | Tarjeta expansora para micro:bit |
-| ![protoboard](imagenes/08protoboard.jpg) | Protoboard |
-| ![transistor](imagenes/09transistor.jpg) | Transistor NPN |
-| ![resistencia](imagenes/10resistencia.jpg) | Resistencia 220 ohmios |
+| ![arduino_uno](imagenes/arduino_uno.jpg) | Arduino uno|
+| ![protoboard](imagenes/protoboard.jpg) | Protoboard |
+| ![servomotor](imagenes/servomotor.jpg) | Servomotor |
+| ![buzzer](imagenes/buzzer_arduino.jpg) | Buzzer |
+| ![sensor _ultasonico](imagenes/sensor_ultrasonico.jpg) | Sensor ultrasónico x2 |
+| ![cables](imagenes/cables_arduino.jpg) | Cables |
+| ![sensor_gas](imagenes/sensor_de_gas.jpg) | Sensor de gas |
+
 
 ## 4. Diseño Mecánico
 - [Realizar una descripción de como funciona la solución a nivel mecánico]
