@@ -2,19 +2,19 @@
 
 *Fecha: 22 de octubre de 2026
 
-Este documento contiene la documentación técnica para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del [**Instituto Tecnoóligo de Informática**] de **UTU** año 2026.
+Este documento contiene la documentación técnica para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del **Instituto Tecnológico de Informática** de **UTU** año 2026.
 
 # Proyecto: [SmartParking]
 
 ## 1. Integrantes
-- [Jim Birriel]
-- [Noemí Dupasus]
-- [Dennis Lemos]
+- Jim Birriel
+- Noemí Dupasus
+- Dennis Lemos
 
 
 ## 2. Descripción
-- [Se trata de un estacionamiento inteligente, donde detecta un vehículo y abre la barrera automáticamente, también tendrá un sensor de gas para la detección de monóxido de carbono, por si un vehículo queda prendido.]
-- [Formular el problema que se busca resolver y describir la solución]
+- Se trata de un estacionamiento inteligente, donde detecta un vehículo y abre la barrera automáticamente, también tendrá un sensor de gas para la detección de monóxido de carbono, por si un vehículo queda prendido.
+- Se brinda la implementación de un parking donde detecta la presencia de Monóxido de Carbono (CO) que es un gas sumamente tóxico y peligroso la acumulación en espacios cerrados, ya que el mismo se considera como un "asfixiante silencioso" porque es tóxico, invisible y sin olor. Por eso es importante la detección en espacios como estacionamientos de shoppings, edificios, etc.
 
 ## 3. Materiales
 - [Listar los materiales usados por el proyecto]
