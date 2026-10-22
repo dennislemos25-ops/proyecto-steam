@@ -16,7 +16,19 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 - Se brinda la implementación de un parking donde detecta la presencia de Monóxido de Carbono (CO) que es un gas sumamente tóxico y peligroso la acumulación en espacios cerrados, ya que el mismo se considera como un "asfixiante silencioso" porque es tóxico, invisible y sin olor. Por eso es importante la detección en espacios como estacionamientos de shoppings, edificios, etc.
 
 ## 3. Materiales
-- [Listar los materiales usados por el proyecto]
+
+| Imagen       | Descripción |
+| ------------ | ----------- |
+| ![arduino_uno](<img width="250" height="250" alt="Arduino_Uno_-_R3" src="https://github.com/user-attachments/assets/fccd69d1-4e04-4ba5-a446-78c7d71f3c9a"/>) | arduino uno|
+| ![baston](imagenes/02baston.png) | Bastón |
+| ![motor vibracion](imagenes/03motor_vibracion.jpg) | Motor vibración |
+| ![speaker](imagenes/04speaker.jpg) | Speaker |
+| ![sensor proximidad](imagenes/05sensor_proximidad.jpg) | Sensor de proximidad |
+| ![cables](imagenes/06cables.jpg) | Cables |
+| ![tarjeta expansora](imagenes/07tarjeta_expansora.jpg) | Tarjeta expansora para micro:bit |
+| ![protoboard](imagenes/08protoboard.jpg) | Protoboard |
+| ![transistor](imagenes/09transistor.jpg) | Transistor NPN |
+| ![resistencia](imagenes/10resistencia.jpg) | Resistencia 220 ohmios |
 
 ## 4. Diseño Mecánico
 - [Realizar una descripción de como funciona la solución a nivel mecánico]
