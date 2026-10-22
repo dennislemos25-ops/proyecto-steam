@@ -19,13 +19,13 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![arduino_uno](imagenes/arduino_uno.jpg) | Arduino uno|
-| ![protoboard](imagenes/protoboard.jpg) | Protoboard |
-| ![servomotor](imagenes/servomotor.jpg) | Servomotor |
-| ![buzzer](imagenes/buzzer_arduino.jpg) | Buzzer |
-| ![sensor _ultasonico](imagenes/sensor_ultrasonico.jpg) | Sensor ultrasónico x2 |
-| ![cables](imagenes/cables_arduino.jpg) | Cables |
-| ![sensor_gas](imagenes/sensor_de_gas.jpg) | Sensor de gas |
+| <img src="imagenes/arduino_uno.jpg" width="300" alt="arduino_uno"> | Arduino uno|
+| <img src="imagenes/protoboard.jpg" width="300" alt="protoboard"> | Protoboard |
+| <img src="imagenes/servomotor.jpg" width="300" alt="servomotor"> | Servomotor |
+| <img src="imagenes/buzzer_arduino.jpg" width="300" alt="buzzer_arduino"> | Buzzer |
+| <img src="imagenes/sensor_ultrasonico.jpg" width="300" alt="sensor_ultrasonico"> | Sensor ultrasónico x2 |
+| <img src="imagenes/cables_arduino.jpg" width="300" alt="cables_arduino"> | Cables |
+| <img src="imagenes/sensor_de_gas.jpg" width="300" alt="sensor_de_gas"> | Sensor de gas |
 
 
 ## 4. Diseño Mecánico
