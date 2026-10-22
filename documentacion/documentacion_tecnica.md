@@ -19,7 +19,7 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![arduino_uno](<img width="250" height="250" alt="Arduino_Uno_-_R3" src="https://github.com/user-attachments/assets/fccd69d1-4e04-4ba5-a446-78c7d71f3c9a"/>) | arduino uno|
+| ![arduino_uno](imagenes/arduino_uno.jpg) | arduino uno|
 | ![baston](imagenes/02baston.png) | Bastón |
 | ![motor vibracion](imagenes/03motor_vibracion.jpg) | Motor vibración |
 | ![speaker](imagenes/04speaker.jpg) | Speaker |
