@@ -20,7 +20,7 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 | Imagen       | Descripción |
 | ------------ | ----------- |
 | ![arduino_uno](imagenes/arduino_uno.jpg) | arduino uno|
-| ![baston](imagenes/02baston.png) | Bastón |
+| ![protoboard](imagenes/) |  |
 | ![motor vibracion](imagenes/03motor_vibracion.jpg) | Motor vibración |
 | ![speaker](imagenes/04speaker.jpg) | Speaker |
 | ![sensor proximidad](imagenes/05sensor_proximidad.jpg) | Sensor de proximidad |
