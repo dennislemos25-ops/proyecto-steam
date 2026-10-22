@@ -1,5 +1,3 @@
-*Este repositorio es una plantilla para ser usada para documentar proyectos STEAM.*
-
 # SmartParking
 
 ## Descripción
@@ -19,7 +17,7 @@ tecnicatura **Redes y Software** del **ITI** de **UTU**.
 - Dennis Lemos
 
 ## Documentación
-- [Informe de Avance - Agosto 202x](documentacion/avance1.md)
+- [Informe de Avance - Agosto 2026](documentacion/avance1.md)
 - [Informe de Avance - Septiembre 202x](documentacion/avance2.md)
 - [Informe de Avance - Octubre 202x](documentacion/avance3.md)
 - [Documentación técnica](documentacion/documentacion_tecnica.md)
