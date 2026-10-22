@@ -1,6 +1,6 @@
 # Documentación Técnica
 
-*Fecha: 22 de octubre de 2026
+Fecha: 22 de octubre de 2026
 
 Este documento contiene la documentación técnica para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del **Instituto Tecnológico de Informática** de **UTU** año 2026.
 
@@ -10,7 +10,6 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 - Jim Birriel
 - Noemí Dupasus
 - Dennis Lemos
-
 
 ## 2. Descripción
 - Se trata de un estacionamiento inteligente, donde detecta un vehículo y abre la barrera automáticamente, también tendrá un sensor de gas para la detección de monóxido de carbono, por si un vehículo queda prendido.
