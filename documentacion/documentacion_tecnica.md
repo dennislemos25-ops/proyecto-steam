@@ -1,20 +1,19 @@
 # Documentación Técnica
 
-*Fecha: XX de noviembre de 202x*
+*Fecha: 22 de octubre de 2026
 
-Este documento contiene la documentación técnica para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del [**nombre del instituto**] de **UTU** año 202x.
+Este documento contiene la documentación técnica para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del [**Instituto Tecnoóligo de Informática**] de **UTU** año 2026.
 
-# Proyecto: [Nombre del proyecto]
+# Proyecto: [SmartParking]
 
 ## 1. Integrantes
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
-- [Nombre integrante 4]
-- [Nombre integrante 5]
+- [Jim Birriel]
+- [Noemí Dupasus]
+- [Dennis Lemos]
+
 
 ## 2. Descripción
-- [Realizar una descripción general del proyecto en dos o tres párrafos]
+- [Se trata de un estacionamiento inteligente, donde detecta un vehículo y abre la barrera automáticamente, también tendrá un sensor de gas para la detección de monóxido de carbono, por si un vehículo queda prendido.]
 - [Formular el problema que se busca resolver y describir la solución]
 
 ## 3. Materiales
