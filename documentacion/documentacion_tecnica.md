@@ -29,7 +29,8 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 
 ## 4. Diseño Mecánico
-- [Realizar una descripción de como funciona la solución a nivel mecánico]
+- Se aproxima el vehículo al estacionamiento, el sensor ultrasónico lo detecta, la barrera se levanta y luego que el mismo ingresa la barrera se baja automáticamente a los segundos.
+- Si la persona se olvida del vehículo prendido se detecta el nivel monóxido de carbono y se prende una alarma sonora hasta que los valores vuelvan a la normalidad. 
 - [¿Cómo se arma la solución? Incluir instrucciones de ensamblaje]
   - [Sugerencia: inspirarse en la forma como https://www.instructables.com detalla el armado de un proyecto]
 - [Incluir fotografías ilustrativas]
