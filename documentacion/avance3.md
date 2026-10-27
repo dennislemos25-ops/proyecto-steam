@@ -49,22 +49,9 @@ Se realiza una actualización en el código de Python, ahora se detecta automati
 - Próximos pasos:
   - Comenzar con la documentación técnica. 
 
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
-
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+## 22/10/2026
+- Realización de la documentación técnica.
  
-[Código Arduino](https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp)<br>
-[Código Python](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_final_py.py)<br>
-[Código HTML](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_html.py)<br>
+- [Código Arduino](https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp)<br>
+- [Código Python](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_final_py.py)<br>
+- [Código HTML](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_html.py)<br>
