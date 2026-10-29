@@ -25,8 +25,9 @@ tecnicatura **Redes y Software** del **ITI** de **UTU**.
 - [Documentación técnica](documentacion/documentacion_tecnica.md)
 
 ## Código fuente
-- [Agregar enlace a la carpeta de GitHub donde se haya guardado el código fuente]
-- [Ejemplo: `codigo/programa1.py`]
+- [Código Arduino](https://github.com/dennislemos25-ops/proyecto-steam/blob/2bfcf96fa9abbc615e4a84eec14ae6023dfc9a1c/codigo_final_arduino.cpp)<br>
+- [Código Python](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_final_py.py)<br>
+- [Código HTML](https://github.com/dennislemos25-ops/proyecto-steam/blob/main/codigo_html.py)<br>
 
 ## Presentación Final
 - [Agregar enlace a la carpeta de GitHub donde se hayan guardado diapositivas, videos, etc usados en la presentación final]
