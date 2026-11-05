@@ -19,21 +19,28 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 | Imagen       | Descripción |
 | ------------ | ----------- |
-| <img src="imagenes/arduino_uno.jpg" width="300" alt="arduino_uno"> | Arduino uno|
-| <img src="imagenes/protoboard.jpg" width="300" alt="protoboard"> | Protoboard |
-| <img src="imagenes/servomotor.jpg" width="300" alt="servomotor"> | Servomotor |
-| <img src="imagenes/buzzer_arduino.jpg" width="300" alt="buzzer_arduino"> | Buzzer |
-| <img src="imagenes/sensor_ultrasonico.jpg" width="300" alt="sensor_ultrasonico"> | Sensor ultrasónico x2 |
-| <img src="imagenes/cables_arduino.jpg" width="300" alt="cables_arduino"> | Cables |
-| <img src="imagenes/sensor_de_gas.jpg" width="300" alt="sensor_de_gas"> | Sensor de gas |
+| <img src="imagenes/arduino_uno.jpg" width="250" alt="arduino_uno"> | Arduino uno|
+| <img src="imagenes/protoboard.jpg" width="250" alt="protoboard"> | Protoboard |
+| <img src="imagenes/servomotor.jpg" width="250" alt="servomotor"> | Servomotor |
+| <img src="imagenes/buzzer_arduino.jpg" width="250" alt="buzzer_arduino"> | Buzzer |
+| <img src="imagenes/sensor_ultrasonico.jpg" width="250" alt="sensor_ultrasonico"> | Sensor ultrasónico x2 |
+| <img src="imagenes/cables_arduino.jpg" width="250" alt="cables_arduino"> | Cables |
+| <img src="imagenes/sensor_de_gas.jpg" width="250" alt="sensor_de_gas"> | Sensor de gas |
 
 
-## 4. Diseño Mecánico
+## 4.1 Diseño Mecánico
 - Se aproxima el vehículo al estacionamiento, el sensor ultrasónico lo detecta, la barrera se levanta y luego que el mismo ingresa la barrera se baja automáticamente a los segundos.
-- Si la persona se olvida del vehículo prendido se detecta el nivel monóxido de carbono y se prende una alarma sonora hasta que los valores vuelvan a la normalidad. 
-- [¿Cómo se arma la solución? Incluir instrucciones de ensamblaje]
-  - [Sugerencia: inspirarse en la forma como https://www.instructables.com detalla el armado de un proyecto]
-- [Incluir fotografías ilustrativas]
+- Si la persona se olvida del vehículo prendido se detecta el nivel monóxido de carbono y se prende una alarma sonora hasta que los valores vuelvan a la normalidad.
+## 4.2 Armado del Diseño
+- Para el diseño y el ensamblaje se utilizó:
+- Una lamina compensada de 34,5 x 22,5 donde se imprimió y se pego el diseño de un estacionamiento.
+- Palito de Brochet de 10 cms, adherido al servomotor para complementar la barrera.
+- Caja de zapatos de 30 cms, recortada, dándole el formato de "edificio" para la entrada del Parking y que también tapara la parte del mecanismo en general para el funcionamiento.
+<img width="300" alt="cdc5a484-e88d-4569-9bff-32cfc877e7e0" src="https://github.com/user-attachments/assets/fff5e0fc-7944-43de-a574-6321b4847a84" />
+<img width="300" alt="bc2cf174-28e3-4631-9137-8936411b3a8f" src="https://github.com/user-attachments/assets/6fece1d0-e414-4ef9-9d55-5fdc416055f1" /><br>
+<img width="300" alt="b70859db-e672-4f88-a7a8-e0e2676ba71d" src="https://github.com/user-attachments/assets/392a39df-8b90-4e65-ae9a-8f4afdc71347" />
+<img width="300" alt="d73b64c2-57db-476c-afa2-2f47f3374a60" src="https://github.com/user-attachments/assets/bdce30c5-14b8-4fcc-9c91-15cfd88d479a" />
+
 
 ## 5. Diseño Electrónico
 Se presenta de conexión de los componentes (Sensores y Servo motor) al Arduino.
